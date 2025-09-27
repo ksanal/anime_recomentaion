@@ -2,6 +2,6 @@ aenv
 artifacts/raw
 artifacts/model
 artifacts/model_checkpoint
-artifacts/processede
+artifacts/processed
 artifacts/weights
 MLOPS_PROJECT_3.egg-info
